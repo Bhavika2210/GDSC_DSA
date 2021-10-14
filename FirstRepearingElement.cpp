@@ -1,3 +1,4 @@
+// Use of Unordered Map
 class Solution {
   public:
     // Function to return the position of the first repeating element.
